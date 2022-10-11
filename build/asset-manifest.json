@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crwn/static/css/main.8cbf56a2.css",
+    "main.js": "/crwn/static/js/main.a93aac3e.js",
+    "index.html": "/crwn/index.html",
+    "main.8cbf56a2.css.map": "/crwn/static/css/main.8cbf56a2.css.map",
+    "main.a93aac3e.js.map": "/crwn/static/js/main.a93aac3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cbf56a2.css",
+    "static/js/main.a93aac3e.js"
+  ]
+}
